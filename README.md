@@ -1,5 +1,5 @@
 # CESI - Projet 3W
-### Code du premier projet de la mineur informatique, 3W.
+### Code du premier projet de la mineure informatique, 3W.
 
 Equipe du projet:
 
